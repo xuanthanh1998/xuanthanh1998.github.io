@@ -1,0 +1,148 @@
+* { font-size:12px;
+	font:14px/18px Arial,Helvetica,sans-serif;
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+	}
+.clear_fix { overflow:auto; zoom:1}
+
+/* start:header */
+.main {
+    background-color: #280951;
+    height: 590px;
+}
+.header{
+    background-color: #3d1372;
+    padding: 15px 0;
+}
+.header .row .col h3 {
+    margin-bottom: 0px;
+    margin-left: 60px;
+}
+.header .row .col {
+    color: #fff;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.header .row .col-md-auto {
+    float: left;
+}
+.header .row .col-md-auto .icon_admin{
+    color: #fff;
+    font-size: 14px;
+}
+.header .row .col-md-auto p{
+    padding-right: 8px;
+    display: inline;
+    color: #fff;
+    font-size: 14px;
+    border-right: 1px solid #fff;
+}
+.header .row .col-md-auto a{
+    text-decoration: none;
+    color: #fff;
+}
+.header .row .col-md-auto a:hover{
+    color: gold;
+}
+
+/* end:header */
+
+/* start:container-main */
+.container-main{
+    background-color: #280951;
+}
+.menu-bt{
+    text-decoration: none;
+    color: #fff;
+}
+
+.menu-select{
+    text-align: center;
+    background-color: #3d1372;
+    height: 40px;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 11px;
+    padding-bottom: auto;
+    border: 1px solid #3d1372;
+    margin-top: 30px;
+}
+.menu-select:hover{
+    color: gold;
+    border: 1px solid gold;
+}
+.text-header{
+    text-align: center;
+    margin-top: 70px;
+}
+.text-header h1{
+    font-weight: bold;
+}
+.tb_text{
+    border: 1px solid black;
+}
+.chuc_nang{
+    text-decoration: none;
+    display: inline-block;
+    border: 1px solid #333;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 60px;
+    height: 25px;
+    padding-top: 4px;
+    color: #333;
+}
+.chuc_nang:hover{
+    color: #fff;
+    background-color: #3d1372;
+}
+.bt_them div{
+    text-decoration: none;
+    border: 1px solid dimgray;
+    width: 120px;
+    height: 30px;
+    float: right;
+    text-align: center;
+    padding-top: 6px;
+    margin-right: 205px;
+    color: dimgray;
+}
+.bt_them div:hover{
+    color: #fff;
+    background-color: #3d1372;
+}
+/* end:container-main */
+
+.footer{
+    background-color: #3d1372;
+    width: 100%;
+    height: 261px;
+}
+
+.table{
+    border: 1px solid black;
+}
+.tbl{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+}
+.bt_tm{
+    width: 120px;
+    height: 28px;
+    background-color: #fff;
+}
+.bt_tm:hover{
+    background-color: #3d1372;
+    color: #fff;
+}
+.input_text{
+    width: 200px;
+    height: 25px;
+}
+.td_text{
+    width: 130px;
+}
